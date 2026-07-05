@@ -1,0 +1,243 @@
+{
+  "orders": [
+    {
+      "id": "ord-1783260478996",
+      "customerName": "rkeygr ",
+      "customerEmail": "eryg@gdiuhg.com",
+      "phone": "48756348765",
+      "address": "wemytgjsyert\njs",
+      "deliveryNotes": "dfgs",
+      "items": [
+        {
+          "id": "dining-table-1",
+          "name": "Luna Dining Table",
+          "category": "Dining Table",
+          "badge": "New arrival",
+          "description": "Sculpted silhouette with premium finish.",
+          "material": "Travertine marble",
+          "deliveryWindow": "5-7 days",
+          "price": 32990,
+          "stock": 2,
+          "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20600%22%3E%3Crect%20width%3D%22800%22%20height%3D%22600%22%20fill%3D%22hsl(37%2036%25%2013%25)%22%2F%3E%3Crect%20x%3D%2258%22%20y%3D%2258%22%20width%3D%22684%22%20height%3D%22484%22%20rx%3D%2234%22%20fill%3D%22hsl(71%2042%25%2024%25)%22%20fill-opacity%3D%220.95%22%2F%3E%3Ccircle%20cx%3D%22660%22%20cy%3D%22170%22%20r%3D%22112%22%20fill%3D%22hsl(95%2058%25%2062%25)%22%20fill-opacity%3D%220.24%22%2F%3E%3Ccircle%20cx%3D%22170%22%20cy%3D%22470%22%20r%3D%22132%22%20fill%3D%22hsl(217%2018%25%2072%25)%22%20fill-opacity%3D%220.2%22%2F%3E%3Crect%20x%3D%22140%22%20y%3D%22228%22%20width%3D%22520%22%20height%3D%22115%22%20rx%3D%2226%22%20fill%3D%22hsl(95%2058%25%2062%25)%22%20fill-opacity%3D%220.95%22%2F%3E%3Crect%20x%3D%22175%22%20y%3D%22170%22%20width%3D%22450%22%20height%3D%2272%22%20rx%3D%2220%22%20fill%3D%22white%22%20fill-opacity%3D%220.22%22%2F%3E%3Crect%20x%3D%22182%22%20y%3D%22332%22%20width%3D%2286%22%20height%3D%22118%22%20rx%3D%2218%22%20fill%3D%22%23111%22%20fill-opacity%3D%220.6%22%2F%3E%3Crect%20x%3D%22528%22%20y%3D%22332%22%20width%3D%2286%22%20height%3D%22118%22%20rx%3D%2218%22%20fill%3D%22%23111%22%20fill-opacity%3D%220.6%22%2F%3E%3Crect%20x%3D%22310%22%20y%3D%22170%22%20width%3D%22180%22%20height%3D%2256%22%20rx%3D%2218%22%20fill%3D%22hsl(217%2018%25%2072%25)%22%20fill-opacity%3D%220.45%22%2F%3E%3Ctext%20x%3D%22400%22%20y%3D%22510%22%20text-anchor%3D%22middle%22%20font-size%3D%2234%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22white%22%3ELuna%20Dining%20Table%3C%2Ftext%3E%3Ctext%20x%3D%22400%22%20y%3D%22548%22%20text-anchor%3D%22middle%22%20font-size%3D%2220%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22%23f6e8d7%22%3EDining%20Table%20%E2%80%A2%20Furnish%20Hub%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "quantity": 2
+        }
+      ],
+      "total": 66479,
+      "status": "Refund Requested",
+      "deliveryStatus": "Queued",
+      "installationStatus": "Pending",
+      "refundRequested": true,
+      "trackingNumber": "TRK-8000",
+      "accountType": "registered",
+      "createdAt": "2026-07-05T14:07:58.996Z"
+    },
+    {
+      "id": "ord-1783176124079",
+      "customerName": "mithila",
+      "customerEmail": "raghavkrishna.b@gmail.com",
+      "phone": "4564654674",
+      "address": "drshytr dtyu ety uty",
+      "deliveryNotes": "oiiii",
+      "items": [
+        {
+          "id": "dressing-table-3",
+          "name": "Celeste Dressing Table",
+          "category": "Dressing Table",
+          "badge": "Luxury pick",
+          "description": "Built with premium mirrors and concealed drawers.",
+          "material": "Solid ash",
+          "deliveryWindow": "6-8 days",
+          "price": 38990,
+          "stock": 4,
+          "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20600%22%3E%3Crect%20width%3D%22800%22%20height%3D%22600%22%20fill%3D%22hsl(111%2036%25%2013%25)%22%2F%3E%3Crect%20x%3D%2258%22%20y%3D%2258%22%20width%3D%22684%22%20height%3D%22484%22%20rx%3D%2234%22%20fill%3D%22hsl(145%2042%25%2024%25)%22%20fill-opacity%3D%220.95%22%2F%3E%3Ccircle%20cx%3D%22660%22%20cy%3D%22170%22%20r%3D%22112%22%20fill%3D%22hsl(169%2058%25%2062%25)%22%20fill-opacity%3D%220.24%22%2F%3E%3Ccircle%20cx%3D%22170%22%20cy%3D%22470%22%20r%3D%22132%22%20fill%3D%22hsl(291%2018%25%2072%25)%22%20fill-opacity%3D%220.2%22%2F%3E%3Crect%20x%3D%22200%22%20y%3D%22235%22%20width%3D%22400%22%20height%3D%22130%22%20rx%3D%2224%22%20fill%3D%22hsl(169%2058%25%2062%25)%22%20fill-opacity%3D%220.96%22%2F%3E%3Crect%20x%3D%22232%22%20y%3D%22180%22%20width%3D%22336%22%20height%3D%2282%22%20rx%3D%2222%22%20fill%3D%22white%22%20fill-opacity%3D%220.24%22%2F%3E%3Crect%20x%3D%22265%22%20y%3D%22192%22%20width%3D%22270%22%20height%3D%2254%22%20rx%3D%2216%22%20fill%3D%22hsl(291%2018%25%2072%25)%22%20fill-opacity%3D%220.82%22%2F%3E%3Crect%20x%3D%22242%22%20y%3D%22360%22%20width%3D%22116%22%20height%3D%2290%22%20rx%3D%2218%22%20fill%3D%22%23111%22%20fill-opacity%3D%220.55%22%2F%3E%3Crect%20x%3D%22442%22%20y%3D%22360%22%20width%3D%22116%22%20height%3D%2290%22%20rx%3D%2218%22%20fill%3D%22%23111%22%20fill-opacity%3D%220.55%22%2F%3E%3Ctext%20x%3D%22400%22%20y%3D%22510%22%20text-anchor%3D%22middle%22%20font-size%3D%2234%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22white%22%3ECeleste%20Dressing%20Table%3C%2Ftext%3E%3Ctext%20x%3D%22400%22%20y%3D%22548%22%20text-anchor%3D%22middle%22%20font-size%3D%2220%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22%23f6e8d7%22%3EDressing%20Table%20%E2%80%A2%20Furnish%20Hub%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "quantity": 1
+        },
+        {
+          "id": "sofa-5",
+          "name": "Tilda Sofa",
+          "category": "Sofa",
+          "badge": "Signature",
+          "description": "A polished and inviting sofa with architectural presence.",
+          "material": "Wool blend",
+          "deliveryWindow": "10-14 days",
+          "price": 74590,
+          "stock": 6,
+          "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20600%22%3E%3Crect%20width%3D%22800%22%20height%3D%22600%22%20fill%3D%22hsl(185%2036%25%2013%25)%22%2F%3E%3Crect%20x%3D%2258%22%20y%3D%2258%22%20width%3D%22684%22%20height%3D%22484%22%20rx%3D%2234%22%20fill%3D%22hsl(219%2042%25%2024%25)%22%20fill-opacity%3D%220.95%22%2F%3E%3Ccircle%20cx%3D%22660%22%20cy%3D%22170%22%20r%3D%22112%22%20fill%3D%22hsl(243%2058%25%2062%25)%22%20fill-opacity%3D%220.24%22%2F%3E%3Ccircle%20cx%3D%22170%22%20cy%3D%22470%22%20r%3D%22132%22%20fill%3D%22hsl(5%2018%25%2072%25)%22%20fill-opacity%3D%220.2%22%2F%3E%3Crect%20x%3D%22155%22%20y%3D%22250%22%20width%3D%22490%22%20height%3D%22150%22%20rx%3D%2232%22%20fill%3D%22hsl(243%2058%25%2062%25)%22%20fill-opacity%3D%220.96%22%2F%3E%3Crect%20x%3D%22185%22%20y%3D%22220%22%20width%3D%22430%22%20height%3D%2286%22%20rx%3D%2224%22%20fill%3D%22white%22%20fill-opacity%3D%220.2%22%2F%3E%3Crect%20x%3D%22220%22%20y%3D%22285%22%20width%3D%22160%22%20height%3D%2274%22%20rx%3D%2222%22%20fill%3D%22white%22%20fill-opacity%3D%220.76%22%2F%3E%3Crect%20x%3D%22420%22%20y%3D%22285%22%20width%3D%22160%22%20height%3D%2274%22%20rx%3D%2222%22%20fill%3D%22white%22%20fill-opacity%3D%220.76%22%2F%3E%3Crect%20x%3D%22258%22%20y%3D%22360%22%20width%3D%22280%22%20height%3D%2236%22%20rx%3D%2218%22%20fill%3D%22%23111%22%20fill-opacity%3D%220.44%22%2F%3E%3Ctext%20x%3D%22400%22%20y%3D%22510%22%20text-anchor%3D%22middle%22%20font-size%3D%2234%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22white%22%3ETilda%20Sofa%3C%2Ftext%3E%3Ctext%20x%3D%22400%22%20y%3D%22548%22%20text-anchor%3D%22middle%22%20font-size%3D%2220%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22%23f6e8d7%22%3ESofa%20%E2%80%A2%20Furnish%20Hub%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "quantity": 1
+        }
+      ],
+      "total": 114079,
+      "status": "Completed",
+      "deliveryStatus": "Delivered",
+      "installationStatus": "Completed",
+      "refundRequested": false,
+      "trackingNumber": "TRK-7112",
+      "accountType": "registered",
+      "createdAt": "2026-07-04T14:42:04.079Z"
+    },
+    {
+      "id": "ord-1783175949638",
+      "customerName": "raghav",
+      "customerEmail": "bavvs@nahdg.com",
+      "phone": "6256736853",
+      "address": "tataydd\n",
+      "deliveryNotes": "install properly",
+      "items": [
+        {
+          "id": "bed-2",
+          "name": "Aurora Bed",
+          "category": "Bed",
+          "badge": "Premium",
+          "description": "A refined frame with architectural headboard styling.",
+          "material": "Solid teak",
+          "deliveryWindow": "8-12 days",
+          "price": 49990,
+          "stock": 3,
+          "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20600%22%3E%3Crect%20width%3D%22800%22%20height%3D%22600%22%20fill%3D%22hsl(74%2036%25%2013%25)%22%2F%3E%3Crect%20x%3D%2258%22%20y%3D%2258%22%20width%3D%22684%22%20height%3D%22484%22%20rx%3D%2234%22%20fill%3D%22hsl(108%2042%25%2024%25)%22%20fill-opacity%3D%220.95%22%2F%3E%3Ccircle%20cx%3D%22660%22%20cy%3D%22170%22%20r%3D%22112%22%20fill%3D%22hsl(132%2058%25%2062%25)%22%20fill-opacity%3D%220.24%22%2F%3E%3Ccircle%20cx%3D%22170%22%20cy%3D%22470%22%20r%3D%22132%22%20fill%3D%22hsl(254%2018%25%2072%25)%22%20fill-opacity%3D%220.2%22%2F%3E%3Crect%20x%3D%22160%22%20y%3D%22250%22%20width%3D%22480%22%20height%3D%22180%22%20rx%3D%2230%22%20fill%3D%22hsl(132%2058%25%2062%25)%22%20fill-opacity%3D%220.95%22%2F%3E%3Crect%20x%3D%22185%22%20y%3D%22214%22%20width%3D%22430%22%20height%3D%2278%22%20rx%3D%2224%22%20fill%3D%22white%22%20fill-opacity%3D%220.2%22%2F%3E%3Crect%20x%3D%22200%22%20y%3D%22290%22%20width%3D%22160%22%20height%3D%2288%22%20rx%3D%2220%22%20fill%3D%22white%22%20fill-opacity%3D%220.8%22%2F%3E%3Crect%20x%3D%22440%22%20y%3D%22290%22%20width%3D%22160%22%20height%3D%2288%22%20rx%3D%2220%22%20fill%3D%22white%22%20fill-opacity%3D%220.8%22%2F%3E%3Crect%20x%3D%22150%22%20y%3D%22430%22%20width%3D%22500%22%20height%3D%2232%22%20rx%3D%2216%22%20fill%3D%22%23111%22%20fill-opacity%3D%220.45%22%2F%3E%3Ctext%20x%3D%22400%22%20y%3D%22510%22%20text-anchor%3D%22middle%22%20font-size%3D%2234%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22white%22%3EAurora%20Bed%3C%2Ftext%3E%3Ctext%20x%3D%22400%22%20y%3D%22548%22%20text-anchor%3D%22middle%22%20font-size%3D%2220%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22%23f6e8d7%22%3EBed%20%E2%80%A2%20Furnish%20Hub%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "quantity": 1
+        },
+        {
+          "id": "coffee-table-1",
+          "name": "Crest Coffee Table",
+          "category": "Coffee Table",
+          "badge": "New arrival",
+          "description": "Low, sculptural lines for modern living rooms.",
+          "material": "Travertine top",
+          "deliveryWindow": "3-5 days",
+          "price": 18990,
+          "stock": 2,
+          "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20600%22%3E%3Crect%20width%3D%22800%22%20height%3D%22600%22%20fill%3D%22hsl(37%2036%25%2013%25)%22%2F%3E%3Crect%20x%3D%2258%22%20y%3D%2258%22%20width%3D%22684%22%20height%3D%22484%22%20rx%3D%2234%22%20fill%3D%22hsl(71%2042%25%2024%25)%22%20fill-opacity%3D%220.95%22%2F%3E%3Ccircle%20cx%3D%22660%22%20cy%3D%22170%22%20r%3D%22112%22%20fill%3D%22hsl(95%2058%25%2062%25)%22%20fill-opacity%3D%220.24%22%2F%3E%3Ccircle%20cx%3D%22170%22%20cy%3D%22470%22%20r%3D%22132%22%20fill%3D%22hsl(217%2018%25%2072%25)%22%20fill-opacity%3D%220.2%22%2F%3E%3Crect%20x%3D%22210%22%20y%3D%22275%22%20width%3D%22380%22%20height%3D%22115%22%20rx%3D%2226%22%20fill%3D%22hsl(95%2058%25%2062%25)%22%20fill-opacity%3D%220.92%22%2F%3E%3Crect%20x%3D%22240%22%20y%3D%22250%22%20width%3D%22320%22%20height%3D%2244%22%20rx%3D%2216%22%20fill%3D%22white%22%20fill-opacity%3D%220.22%22%2F%3E%3Crect%20x%3D%22270%22%20y%3D%22320%22%20width%3D%2280%22%20height%3D%2280%22%20rx%3D%2218%22%20fill%3D%22hsl(217%2018%25%2072%25)%22%20fill-opacity%3D%220.7%22%2F%3E%3Crect%20x%3D%22450%22%20y%3D%22320%22%20width%3D%2280%22%20height%3D%2280%22%20rx%3D%2218%22%20fill%3D%22hsl(217%2018%25%2072%25)%22%20fill-opacity%3D%220.7%22%2F%3E%3Ctext%20x%3D%22400%22%20y%3D%22510%22%20text-anchor%3D%22middle%22%20font-size%3D%2234%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22white%22%3ECrest%20Coffee%20Table%3C%2Ftext%3E%3Ctext%20x%3D%22400%22%20y%3D%22548%22%20text-anchor%3D%22middle%22%20font-size%3D%2220%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22%23f6e8d7%22%3ECoffee%20Table%20%E2%80%A2%20Furnish%20Hub%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "quantity": 1
+        }
+      ],
+      "total": 69479,
+      "status": "Completed",
+      "deliveryStatus": "Delivered",
+      "installationStatus": "Completed",
+      "refundRequested": false,
+      "trackingNumber": "TRK-7719",
+      "accountType": "registered",
+      "createdAt": "2026-07-04T14:39:09.638Z"
+    },
+    {
+      "id": "ord-1783174559140",
+      "customerName": "aarav",
+      "customerEmail": "blabal@furnish.com",
+      "phone": "2345645657",
+      "address": "ertg etrt rey",
+      "deliveryNotes": "intsall proper",
+      "items": [
+        {
+          "id": "p1",
+          "name": "Sculpted Lounge Chair",
+          "category": "Seating",
+          "badge": "New arrival",
+          "description": "Hand-finished walnut frame with velvet upholstery.",
+          "material": "Walnut + velvet",
+          "deliveryWindow": "4-6 days",
+          "price": 1290,
+          "stock": 3,
+          "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20600%22%3E%3Crect%20width%3D%22800%22%20height%3D%22600%22%20fill%3D%22%232b221d%22%2F%3E%3Crect%20x%3D%2270%22%20y%3D%2270%22%20width%3D%22660%22%20height%3D%22460%22%20rx%3D%2228%22%20fill%3D%22%237a4d2d%22%20fill-opacity%3D%220.85%22%2F%3E%3Crect%20x%3D%22120%22%20y%3D%22120%22%20width%3D%22560%22%20height%3D%22180%22%20rx%3D%2216%22%20fill%3D%22rgba(255%2C255%2C255%2C0.22)%22%2F%3E%3Ctext%20x%3D%22400%22%20y%3D%22290%22%20text-anchor%3D%22middle%22%20font-size%3D%2244%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22white%22%3ESculpted%20Lounge%20Chair%3C%2Ftext%3E%3Ctext%20x%3D%22400%22%20y%3D%22360%22%20text-anchor%3D%22middle%22%20font-size%3D%2218%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22%23f5ebdc%22%3ELuxury%20furniture%20%E2%80%A2%20Furnish%20Hub%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "quantity": 1
+        },
+        {
+          "id": "p3",
+          "name": "Cloud Bed Frame",
+          "category": "Bedroom",
+          "badge": "Limited edition",
+          "description": "Low-profile upholstered platform bed in oat linen.",
+          "material": "Linen upholstery",
+          "deliveryWindow": "5-7 days",
+          "price": 2140,
+          "stock": 5,
+          "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20800%20600%22%3E%3Crect%20width%3D%22800%22%20height%3D%22600%22%20fill%3D%22%2323262b%22%2F%3E%3Crect%20x%3D%2270%22%20y%3D%2270%22%20width%3D%22660%22%20height%3D%22460%22%20rx%3D%2228%22%20fill%3D%22%238b6f57%22%20fill-opacity%3D%220.85%22%2F%3E%3Crect%20x%3D%22120%22%20y%3D%22120%22%20width%3D%22560%22%20height%3D%22180%22%20rx%3D%2216%22%20fill%3D%22rgba(255%2C255%2C255%2C0.22)%22%2F%3E%3Ctext%20x%3D%22400%22%20y%3D%22290%22%20text-anchor%3D%22middle%22%20font-size%3D%2244%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22white%22%3ECloud%20Bed%20Frame%3C%2Ftext%3E%3Ctext%20x%3D%22400%22%20y%3D%22360%22%20text-anchor%3D%22middle%22%20font-size%3D%2218%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22%23f5ebdc%22%3ELuxury%20furniture%20%E2%80%A2%20Furnish%20Hub%3C%2Ftext%3E%3C%2Fsvg%3E",
+          "quantity": 1
+        }
+      ],
+      "total": 3929,
+      "status": "Completed",
+      "deliveryStatus": "Delivered",
+      "installationStatus": "Completed",
+      "refundRequested": true,
+      "trackingNumber": "TRK-6814",
+      "accountType": "registered",
+      "createdAt": "2026-07-04T14:15:59.140Z"
+    },
+    {
+      "id": "ord-demo-1",
+      "customerName": "Aarav Singh",
+      "customerEmail": "customer@furnishhub.com",
+      "phone": "9876543210",
+      "address": "18, Sukhdev Vihar, New Delhi",
+      "deliveryNotes": "Ring the bell twice.",
+      "items": [
+        {
+          "id": "p1",
+          "name": "Sculpted Lounge Chair",
+          "quantity": 1,
+          "price": 1290
+        }
+      ],
+      "total": 1789,
+      "status": "Refund Requested",
+      "deliveryStatus": "Delivered",
+      "installationStatus": "Completed",
+      "refundRequested": true,
+      "trackingNumber": "TRK-1284",
+      "createdAt": "2026-07-04T13:55:36.395Z"
+    },
+    {
+      "id": "ord-demo-2",
+      "customerName": "Meera Iyer",
+      "customerEmail": "customer@furnishhub.com",
+      "phone": "9123456780",
+      "address": "7, Park Street, Mumbai",
+      "deliveryNotes": "Install in the living room.",
+      "items": [
+        {
+          "id": "p2",
+          "name": "Marble Dining Table",
+          "quantity": 1,
+          "price": 2890
+        }
+      ],
+      "total": 3389,
+      "status": "Completed",
+      "deliveryStatus": "Delivered",
+      "installationStatus": "Completed",
+      "refundRequested": false,
+      "trackingNumber": "TRK-2819",
+      "createdAt": "2026-07-04T13:55:36.395Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "cust-1",
+      "name": "Aarav Singh",
+      "role": "customer",
+      "email": "customer@furnishhub.com",
+      "password": "customer123"
+    },
+    {
+      "id": "adm-1",
+      "name": "Nisha Rao",
+      "role": "admin",
+      "email": "admin@furnishhub.com",
+      "password": "admin123"
+    },
+    {
+      "id": "del-1",
+      "name": "Dev Patel",
+      "role": "delivery",
+      "email": "delivery@furnishhub.com",
+      "password": "delivery123"
+    },
+    {
+      "id": "ins-1",
+      "name": "Mira Shah",
+      "role": "installation",
+      "email": "install@furnishhub.com",
+      "password": "install123"
+    }
+  ]
+}

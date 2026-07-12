@@ -371,10 +371,8 @@ app.use('/api', (req, res) => {
   res.status(404).json({ error: 'API endpoint not found' });
 });
 
-app.use(express.static(path.join(__dirname, '..', 'dist')));
-app.get('*', (req, res) => {
-  res.sendFile(path.join(__dirname, '..', 'dist', 'index.html'));
-});
+// Frontend is hosted on Vercel.
+// The backend only serves API routes on Render.
 
 app.use((err, req, res, next) => {
   console.error(err);

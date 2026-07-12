@@ -240,7 +240,18 @@
       "password": "install123"
     }
   ],
-  "sessions": [],
+  "sessions": [
+    {
+      "token": "95ba6ec3-f8de-430e-9901-ea62b5768a4b",
+      "user": {
+        "id": "cust-1",
+        "name": "Aarav Singh",
+        "role": "customer",
+        "email": "customer@furnishhub.com"
+      },
+      "createdAt": "2026-07-12T09:03:30.239Z"
+    }
+  ],
   "products": [
     {
       "id": "dining-table-1",

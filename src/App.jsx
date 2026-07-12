@@ -175,7 +175,13 @@ function App() {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(payload)
       });
-      const data = await response.json();
+      let data;
+      try {
+        data = await response.json();
+      } catch (parseError) {
+        const text = await response.text();
+        throw new Error(text || 'Authentication failed');
+      }
       if (!response.ok) {
         throw new Error(data.error || 'Authentication failed');
       }

@@ -51,7 +51,7 @@ function App() {
     const loadData = async (savedToken) => {
       setLoading(true);
       try {
-        const productsRes = await fetch('/api/products');
+        const productsRes = await fetch("https://furnishhub-backend.onrender.com/api/products");
         const productsData = await productsRes.json();
         setProducts(productsData);
 

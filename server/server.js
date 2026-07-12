@@ -148,7 +148,7 @@ const catalogBlueprints = [
   }
 ];
 
-const products = catalogBlueprints.flatMap(({ key, category, colorA, colorB, basePrice, styleNames, badges, materials, descriptions, deliveryWindows }) => 
+const generatedProducts = catalogBlueprints.flatMap(({ key, category, colorA, colorB, basePrice, styleNames, badges, materials, descriptions, deliveryWindows }) => 
   styleNames.map((styleName, index) => ({
     id: `${key}-${index + 1}`,
     name: `${styleName} ${category}`,
@@ -173,10 +173,11 @@ const readData = () => {
     return {
       orders: Array.isArray(parsed?.orders) ? parsed.orders : [],
       users: Array.isArray(parsed?.users) ? parsed.users : [],
-      sessions: Array.isArray(parsed?.sessions) ? parsed.sessions : []
+      sessions: Array.isArray(parsed?.sessions) ? parsed.sessions : [],
+      products: Array.isArray(parsed?.products) ? parsed.products : []
     };
   } catch (error) {
-    return { orders: [], users: [], sessions: [] };
+    return { orders: [], users: [], sessions: [], products: [] };
   }
 };
 
@@ -184,11 +185,18 @@ const writeData = (data) => {
   fs.writeFileSync(dataPath, JSON.stringify(data, null, 2));
 };
 
-let { orders, users, sessions } = readData();
+let { orders, users, sessions, products: persistedProducts } = readData();
+let products = Array.isArray(persistedProducts) && persistedProducts.length === generatedProducts.length
+  ? persistedProducts
+  : generatedProducts;
 
 const persist = () => {
-  writeData({ orders, users, sessions });
+  writeData({ orders, users, sessions, products });
 };
+
+if (!Array.isArray(persistedProducts) || persistedProducts.length !== generatedProducts.length) {
+  persist();
+}
 
 const getSafeUser = (user) => ({ id: user.id, name: user.name, role: user.role, email: user.email });
 

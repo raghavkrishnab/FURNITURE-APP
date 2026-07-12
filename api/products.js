@@ -1,15 +1,26 @@
-import data from '../server/data.json';
+import fs from 'fs';
+import path from 'path';
 
 export default function handler(req, res) {
-  const orders = data.orders || [];
+  try {
+    const filePath = path.join(process.cwd(), 'server', 'data.json');
+    const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
 
-  const products = [
-    ...new Map(
-      orders
-        .flatMap(order => order.items || [])
-        .map(item => [item.id, item])
-    ).values()
-  ];
+    const orders = data.orders || [];
 
-  res.status(200).json(products);
+    const products = [
+      ...new Map(
+        orders
+          .flatMap(order => order.items || [])
+          .map(item => [item.id, item])
+      ).values()
+    ];
+
+    res.status(200).json(products);
+  } catch (err) {
+    console.error(err);
+    res.status(500).json({
+      error: err.message
+    });
+  }
 }

@@ -1,5 +1,7 @@
 import { useEffect, useMemo, useState } from 'react';
 
+const API = import.meta.env.VITE_API_URL;
+
 const currency = new Intl.NumberFormat('en-IN', {
   style: 'currency',
   currency: 'INR',
@@ -51,12 +53,12 @@ function App() {
     const loadData = async (savedToken) => {
       setLoading(true);
       try {
-        const productsRes = await fetch("https://furnishhub-backend.onrender.com/api/products");
+        const productsRes = await fetch(`${API}/api/products`);
         const productsData = await productsRes.json();
         setProducts(productsData);
 
         if (savedToken) {
-          const ordersRes = await fetch('/api/orders', {
+          const ordersRes = await fetch(`${API}/api/orders`, {
             headers: { Authorization: `Bearer ${savedToken}` }
           });
           if (ordersRes.ok) {
@@ -157,7 +159,9 @@ function App() {
     setAuthLoading(true);
 
     try {
-      const endpoint = authMode === 'signin' ? '/api/auth' : '/api/auth/register';
+      const endpoint = authMode === 'signin'
+  ? `${API}/api/auth`
+  : `${API}/api/auth/register`;
       const payload = authMode === 'signin'
         ? { email: authForm.email, password: authForm.password }
         : {
@@ -238,7 +242,7 @@ function App() {
       return;
     }
 
-    const response = await fetch('/api/orders', {
+    const response = await fetch(`${API}/api/orders`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -266,7 +270,7 @@ function App() {
       return;
     }
 
-    const response = await fetch(`/api/orders/${id}`, {
+    const response = await fetch(`${API}/api/orders/${id}`, {
       method: 'PATCH',
       headers: {
         'Content-Type': 'application/json',

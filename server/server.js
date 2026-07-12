@@ -10,7 +10,13 @@ const port = process.env.PORT || 4000;
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const dataPath = path.join(__dirname, 'data.json');
 
-app.use(cors());
+app.use(cors({
+  origin: [
+    "https://furniture-app-lac.vercel.app/",
+    "http://localhost:5173"
+  ],
+  credentials: true
+}));
 app.use(express.json());
 
 const escapeXml = (value) => String(value)
@@ -385,5 +391,5 @@ app.use((err, req, res, next) => {
 const PORT = process.env.PORT || 3000;
 
 app.listen(PORT, () => {
-    console.log(`Server running on ${PORT}`);
+    console.log(import.meta.env.VITE_API_URL);
 });
